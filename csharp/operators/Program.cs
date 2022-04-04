@@ -1,8 +1,8 @@
-﻿using System;
+using System;
   
-namespace Operators
+namespace operators
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
